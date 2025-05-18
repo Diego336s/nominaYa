@@ -16,16 +16,20 @@
     </head>
     <body>
         <div class="container">
-            <div class="brand-logo"></div>
+            <div>                
+                <img class="logo" src="IMG/LOGO_sin_letras.png" alt=""/>
+            </div>
             <div class="brand-title">nominaYa</div>
             <div class="inputs">
+                <form action="">
                 <label>Correo</label>
-                <input type="email" placeholder="example@test.com" />
+                <input type="email" placeholder="nominaYa@gmail.com" />
                 <label>Contraseña</label>
-                <input type="password" placeholder="Min 6 charaters long" />
-                <button type="submit">Inciar Sesion</button>
+                <input type="password" placeholder="contraseña" />
+                <button type="submit">InciarSesion</button>
+                </form>
             </div>
-            <a href="IMG/LOGO.png">MADE BY PRATHAM</a>
+           
         </div>
     </body>
 </html>
