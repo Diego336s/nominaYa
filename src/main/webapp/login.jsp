@@ -15,8 +15,6 @@
 
     </head>
     <body>
-
-
         <div class="container">
             <div class="brand-logo"></div>
             <div class="brand-title">nominaYa</div>
